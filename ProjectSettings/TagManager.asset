@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Meteor
+  - Left Hand
+  - Right Hand
+  - Energy
   layers:
   - Default
   - TransparentFX
